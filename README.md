@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD700&background=000000&width=435&lines=I'm+a+Software+Engineering+UG;I'm+a+Freelance+Web+Designer)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2DD700&background=000000&width=435&lines=I'm+a+Software+Engineering+UG;I'm+a+Freelance+Web+Designer)](https://git.io/typing-svg) <br>
 🌱 I’m currently learning Software Engineering <br>
 🔭 I’m currently working as a freelance Web Developer and Designer
 <br> <br>
