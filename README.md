@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working as a freelance Web Developer and Designer
 <br> <br>
 
-<a href="https://github.com/sandunmadhushan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandunmadhushan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/sandunmadhushan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandunmadhushan&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/sandunmadhushan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandunmadhushan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/sandunmadhushan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandunmadhushan&layout=compact&theme=dark&hide_border=true" /></a>
 
 <hr>
 
