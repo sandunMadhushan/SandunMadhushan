@@ -10,11 +10,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2DD700&background=000000&width=435&lines=I'm+a+Software+Engineering+UG;I'm+a+Freelance+Web+Developer)](https://git.io/typing-svg)
 
-- 🎓 I'm currently learning Software Engineering  
-- 💻 I'm working as a freelance Web Developer and Designer
+- 🎓 Currently learning Software Engineering  
+- 💻 Working as a freelance Web Developer and Designer
+- 🔥 Working with modern web technologies and frameworks
 - 🌐 Specialized in creating responsive and user-friendly websites
-- ⚡ Experienced in both frontend and backend development
-- 🛠️ Working with modern web technologies and frameworks
+- ⚡ &nbsp;&nbsp;Experienced in both frontend and backend development
 - 📱 Passionate about creating seamless user experiences
 
 </div>
