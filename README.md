@@ -1,37 +1,42 @@
-### Hi there, I'm [Sandun Madhushan](https://madhushan.tk) 👋
+<h1 align="left">
+  Hi there, I'm <a href="https://sandunmadhushan.github.io/">Sandun Madhushan </a>
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="3%" valign="bottom" />
+</h1>
 
-<!--
-**sandunmadhushan/SandunMadhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%" style="margin-top: -20px" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2DD700&background=000000&width=435&lines=I'm+a+Software+Engineering+UG;I'm+a+Freelance+Web+Developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2DD700&background=000000&width=435&lines=I'm+a+Software+Engineering+UG;I'm+a+Freelance+Web+Developer)](https://git.io/typing-svg) <br>
-🌱 I’m currently learning Software Engineering <br>
-🔭 I’m currently working as a freelance Web Developer and Designer
-<br> <br>
+- 🎓 I'm currently learning Software Engineering  
+- 💻 I'm working as a freelance Web Developer and Designer
+- 🌐 Specialized in creating responsive and user-friendly websites
+- ⚡ Experienced in both frontend and backend development
+- 🛠️ Working with modern web technologies and frameworks
+- 📱 Passionate about creating seamless user experiences
 
-<a href="https://github.com/sandunmadhushan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandunmadhushan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/sandunmadhushan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandunmadhushan&layout=compact&theme=dark&hide_border=true" /></a>
+</div>
 
+<br clear="right">
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandunMadhushan&show_icons=true&locale=en&theme=algolia"/>
+    &nbsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandunMadhushan&layout=compact&theme=algolia"/>
+</div>
+
+<p align="center">
+  <b>Note:</b> Top languages are metrics of my public code and do not reflect skill level.
+</p>
 <hr>
 
 #### Connect with me:
 
-<p align = "center">
-
-[<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white">](https://sandunmadhushan.github.io/)
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/sandunmadhushan)
-[<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>](https://twitter.com/SandunMadhushan) 
-
+<p>
+  <a href="https://sandunmadhushan.github.io/"><img src="https://img.shields.io/badge/Website-%23.svg?style=for-the-badge&logo=www&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sandunmadhushan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/SandunMadhushan"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 <hr>
-
-<img src="https://komarev.com/ghpvc/?username=sandunmadhushan&style=for-the-badge&color=blue" alt=""/>
+</br>
+<img src="https://komarev.com/ghpvc/?username=sandunMadhushan&style=for-the-badge&color=blue" alt="Profile Views" />
