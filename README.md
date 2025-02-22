@@ -2,7 +2,7 @@
 
 <h1 align="left">
   Hi there, I'm <a href="https://sandunmadhushan.github.io/">Sandun Madhushan </a>
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="3%" valign="bottom" />
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="4%" valign="bottom" />
 </h1>
 
 <div align="left">
