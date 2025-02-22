@@ -1,3 +1,9 @@
+<p align="center"> 
+  <br>
+  <img src="https://ccnyinc.org/wp-content/uploads/2019/12/dataengineerexerciseball-1.gif" width=100% />
+</p>
+
+
 <h1 align="left">
   Hi there, I'm <a href="https://sandunmadhushan.github.io/">Sandun Madhushan </a>
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="3%" valign="bottom" />
