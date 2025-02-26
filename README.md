@@ -30,6 +30,14 @@
 <p align="center">
   <b>Note:</b> Top languages are metrics of my public code and do not reflect skill level.
 </p>
+
+</br>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia)](https://git.io/streak-stats)
+
+</div>
+
 <hr>
 
 #### Connect with me:
