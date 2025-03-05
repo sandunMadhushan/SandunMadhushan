@@ -34,7 +34,18 @@
 </br>
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia)](https://git.io/streak-stats) -->
+
+<picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sandunMadhushan&theme=default">
+        <img 
+            src="https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia" 
+            alt="" 
+            style="display: block;" 
+            onerror="this.parentElement.style.display='none'"
+        >
+</picture>
 
 <!-- <a href="https://app.daily.dev/sandunmadhushan"><img src="./devcard.png" width="356" alt="Sandun Madhushan's Dev Card"/></a> -->
 
