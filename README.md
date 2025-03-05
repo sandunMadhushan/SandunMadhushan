@@ -36,6 +36,8 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia)](https://git.io/streak-stats)
 
+<a href="https://app.daily.dev/sandunmadhushan"><img src="https://api.daily.dev/devcards/v2/JAtyHDwjemDobHdxs7n4h.png?type=wide&r=iom" width="500" alt="Sandun Madhushan's Dev Card"/></a>
+
 </div>
 
 <hr>
