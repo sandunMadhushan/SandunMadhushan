@@ -33,7 +33,7 @@
 
 <!-- <div align="center"> -->
   
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia)](https://git.io/streak-stats) 
 
 <!--<picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sandunMadhushan&theme=algolia">
