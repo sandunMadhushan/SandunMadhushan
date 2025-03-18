@@ -52,13 +52,23 @@
 
 <hr>
 
-#### Connect with me:
+## 🌐 Connect with me
 
-<p>
+<p align="center">
   <a href="https://sandunmadhushan.github.io/"><img src="https://img.shields.io/badge/Website-%23.svg?style=for-the-badge&logo=www&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sandunmadhushan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/SandunMadhushan"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 <hr>
+
 </br>
-<img src="https://komarev.com/ghpvc/?username=sandunMadhushan&style=for-the-badge&color=blue" alt="Profile Views" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandunMadhushan&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sandunMadhushan?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
