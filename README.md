@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/github/followers/sandunMadhushan?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-
+-->
