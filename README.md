@@ -22,7 +22,7 @@
 <br clear="right">
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandunMadhushan&show_icons=true&locale=en&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandunMadhushan&show_icons=true&locale=en&theme=algolia&count_private=true"/>
     &nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandunMadhushan&layout=compact&theme=algolia"/>
 </div>
