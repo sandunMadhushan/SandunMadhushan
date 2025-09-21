@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="left">
-  Hi there, I'm <a href="https://sandunmadhushan.github.io/">Sandun Madhushan </a>
+  Hi there, I'm <a href="https://madhushan.me/">Sandun Madhushan </a>
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="4%" valign="bottom" />
 </h1>
 
@@ -55,7 +55,7 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://sandunmadhushan.github.io/"><img src="https://img.shields.io/badge/Website-%23.svg?style=for-the-badge&logo=www&logoColor=white" /></a>
+  <a href="https://madhushan.me/"><img src="https://img.shields.io/badge/Website-%23.svg?style=for-the-badge&logo=www&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sandunmadhushan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/SandunMadhushan"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
